@@ -6,7 +6,7 @@
     <img src="docs/assets/img/LockdownRpRulebookCover.png" alt="Lockdown RP" title="Lockdown RP">
 </figure>
 
-# Disclosure:
+## Disclosure:
 
 
 - *This server is for players 18 and older. Due to the nature of the content, all players MUST be aged 18 or over to play on the server. If you are younger than 18, then we cannot accept you on this server. By applying to play here with us, you confirm that you are at least 18 years of age and agree to the terms of use as detailed in this document.*
@@ -18,7 +18,7 @@
 - *We aim to give all players a welcoming, friendly experience, which we believe our rules reflect. If you are unsure of any rules, please don't hesitate to ask in the :speech_balloon:support section.*
 
 
-# Obligations:
+## Obligations:
 
 *By applying to this server, you agree to the below and aforementioned rules. Any breaking of said rules may result in a punishment which could include a ban off both the game and discord server. Punishments are dealt out at the administrator discretion.*
 
@@ -28,7 +28,7 @@
     <img src="docs/assets/img/GunFightOnTheBBallCourt.png" alt="Lockdown RP" title="Lockdown RP">
 </figure>
 
-# GENERAL SERVER RULES
+## GENERAL SERVER RULES
 
 ### 1.1 No Metagaming
 
@@ -114,7 +114,7 @@
     <img src="docs/assets/img/TheCrowCampground.png" alt="Lockdown RP" title="Lockdown RP">
 </figure>
 
-# ROLEPLAY RULES
+## ROLEPLAY RULES
 
 
 ### 2.1 Do not break character when in-game.
@@ -340,7 +340,7 @@ To use your *close-call* token, open a 📋support ticket explaining that you wo
     <img src="docs/assets/img/ThreeArmedSurvivors.png" alt="Lockdown RP" title="Lockdown RP">
 </figure>
 
-# THEFT RULES
+## THEFT RULES
 
 ### 3.1 Offline raiding is strictly prohibited.
 
@@ -441,7 +441,7 @@ To use your *close-call* token, open a 📋support ticket explaining that you wo
     <img src="docs/assets/img/ChesterHarrisDeath.png" alt="Lockdown RP" title="Lockdown RP">
 </figure>
 
-# PVP RULES
+## PVP RULES
 
 To initiate PVP, players must follow a certain procedure. We are not a PVP based server, however we are open to it as long as it suits your character's narrative. For example, a pacifist would not go around with a shotgun threatening others to incite aggression.
 
@@ -527,7 +527,7 @@ Text based combat is allowed, provided the following rules are observed.
     <img src="docs/assets/img/MeritReevesFinalConfrontation.png" alt="Lockdown RP" title="Lockdown RP">
 </figure>
 
-# SAFEHOUSE AND VEHICLE CLAIMS
+## SAFEHOUSE AND VEHICLE CLAIMS
 
 
 ### 5.1 Players may claim a safehouse at any time after joining the game.
@@ -580,7 +580,7 @@ Text based combat is allowed, provided the following rules are observed.
     <img src="docs/assets/img/BriefingInCommonRoom.png" alt="Lockdown RP" title="Lockdown RP">
 </figure>
 
-# FACTION RULES
+## FACTION RULES
 
 ### 6.1 To create a faction, open a support ticket to register it.
 
@@ -630,7 +630,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 ---------------------------------------------------------------------------------------------------------------------
 
-# EVENT RULES
+## EVENT RULES
 
 <figure class="thumbnails">
     <img src="docs/assets/img/BanquetTable.png" alt="Lockdown RP" title="Lockdown RP">
