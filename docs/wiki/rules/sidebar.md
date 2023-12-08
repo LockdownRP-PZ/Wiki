@@ -1,6 +1,6 @@
 - **Rules**
 - [Home Page](../introduction)
-- [Rule](rules)
+- [Rules](rules)
 - [Season Rules](season-rules)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/)
