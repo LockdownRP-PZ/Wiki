@@ -3,11 +3,4 @@
   - <a href="#" data-link-title="Light">Light</a>
 - ![Languages](https://icongr.am/material/translate.svg?color=A9A9A9&size=39)
   - [English](/)
-  - [Español](/es_ES/)
-  - [Deutsch](/de_DE/)
-  - [Français](/fr_FR/)
-  - [Italiano](/it_IT/)
-  - [简体中文](/zh_CN/)
-  - [Norsk](/no_NO/)
-  - [Polski](/pl_PL/)
-- [![Discord](https://icongr.am/material/discord.svg?color=A9A9A9&size=37)](https://discord.gg/C29hYvh)
+- [![Discord](https://icongr.am/material/discord.svg?color=A9A9A9&size=37)](https://discord.gg/AyhJfGUGfU)
