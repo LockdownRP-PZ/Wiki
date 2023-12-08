@@ -2,7 +2,9 @@
 
 ---
 
-![RulebookCover](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/LockdownRpRulebookCover.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/LockdownRpRulebookCover.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 # Disclosure:
 
@@ -22,7 +24,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------
 
-![GunFightOnTheBBallCourt](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/GunFightOnTheBBallCourt.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/GunFightOnTheBBallCourt.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 # GENERAL SERVER RULES
 
@@ -106,7 +110,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------
 
-![TheCrowCampground](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheCrowCampground.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/TheCrowCampground.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 # ROLEPLAY RULES
 
@@ -330,7 +336,9 @@ To use your *close-call* token, open a 📋support ticket explaining that you wo
 
 ---------------------------------------------------------------------------------------------------------------------
 
-![ThreeArmedSurvivors](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/ThreeArmedSurvivors.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/ThreeArmedSurvivors.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 # THEFT RULES
 
@@ -393,29 +401,45 @@ To use your *close-call* token, open a 📋support ticket explaining that you wo
 
 > Yvonne heard Davot talk about an armory at the police station over the radio and decided to rob them.
 
-![TheftExample-Clue](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Clue.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/TheftExample-Clue.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 > Yvonne made multiple emotes while sneaking around, giving nearby characters a chance to notice her.
 
-![TheftExample-Emote1](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Emote1.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/TheftExample-Emote1.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
-![TheftExample-Emote2](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Emote2.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/TheftExample-Emote2.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
-![TheftExample-Emote3](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-Emote3.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/TheftExample-Emote3.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 > Yvonne stole these items, including the Army Duffle Bag.
 
-![TheftExample-ItemsStolen1](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-ItemsStolen1.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/TheftExample-ItemsStolen1.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
-![TheftExample-ItemsStolen2](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-ItemsStolen2.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/TheftExample-ItemsStolen2.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 > Yvonne's player included a screenshot of the online players.
 
-![TheftExample-OnlinePlayers](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/TheftExample-OnlinePlayers.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/TheftExample-OnlinePlayers.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 ---------------------------------------------------------------------------------------------------------------------
 
-![ChesterHarrisDeath](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/ChesterHarrisDeath.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/ChesterHarrisDeath.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 # PVP RULES
 
@@ -499,7 +523,9 @@ Text based combat is allowed, provided the following rules are observed.
 
 ---------------------------------------------------------------------------------------------------------------------
 
-![MeritReevesFinalConfrontation](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/MeritReevesFinalConfrontation.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/MeritReevesFinalConfrontation.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 # SAFEHOUSE AND VEHICLE CLAIMS
 
@@ -550,7 +576,9 @@ Text based combat is allowed, provided the following rules are observed.
 
 ---------------------------------------------------------------------------------------------------------------------
 
-![BriefingInCommonRoom](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/BriefingInCommonRoom.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/BriefingInCommonRoom.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 # FACTION RULES
 
@@ -604,7 +632,9 @@ Text based combat is allowed, provided the following rules are observed.
 
 # EVENT RULES
 
-![BanquetTable](https://github.com/LockdownRP-PZ/Rulebook/blob/main/Images/BanquetTable.png)
+<figure class="thumbnails">
+    <img src="docs/assets/img/BanquetTable.png" alt="Lockdown RP" title="Lockdown RP">
+</figure>
 
 ### 7.1 PvP with NPCs
 
