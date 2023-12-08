@@ -1,3 +1,3 @@
-# Season rules {docsify-ignore-all}
+# Season rules
 
 TODO

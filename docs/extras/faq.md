@@ -1,4 +1,4 @@
-# Frequently Asked Questions {docsify-ignore-all}
+# Frequently Asked Questions
 ---
 
 ### TODO

@@ -1,4 +1,4 @@
-# Lockdown RP Rulebook {docsify-ignore-all}
+# Lockdown RP Rulebook
 
 ---
 
