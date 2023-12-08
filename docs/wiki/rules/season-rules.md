@@ -1,65 +1,59 @@
 # Season 2 Rules
 
-## Pre-Apocalypse Phase Rules 📖
+## Pre-Apocalypse Rules
 
-These rules are temporary and will be removed once there is an official announcement of when the outbreak has begun.
+*These rules are temporary and will be removed once there is an official announcement of when the outbreak has begun.*
 
-### Looting 🏘️
+### Looting
 
-No looting empty properties. There are implied citizens living inside those homes, and it is strictly prohibited to steal from them until after the outbreak.
+- No looting empty properties. There are implied citizens living inside those homes, and it is strictly prohibited to steal from them until after the outbreak.
 
-### Criminal Activity 🦹
+### Criminal Activity
 
-Normal stealing rules apply when stealing from safehouses. Please read our rules before stealing. 
+- Normal theft rules apply when stealing from safehouses. Review rule #3 before stealing from other players. 📕[server-rules](link-to-server-rules)
+- Stealing from non-occupied shops that utilize ER Cards as currency is strictly prohibited.
+- Stealing from player-owned businesses must be done following our theft rules.
+- Mugging, Assault, Murder, etc., must utilize PvP or text-based PvP rules. Review rule #4 for more information.
 
-- Stealing from non-occupied shops that utilize Ration Cards as currency is strictly prohibited.
-- Stealing from player-owned businesses must be done through roleplay, and when the shop owner is online.
-- Mugging, Assault, Murder, etc., must utilize text-PvP rules. Please read our rules on text-PvP.
+### Leveling
 
-### Leveling 🆙
+- This pre-apocalypse period is primarily meant for roleplay. XP rates will reflect this, and out-of-character level grinding that does not suit your character's chosen profession or has been prompted organically through RP is prohibited and will be met with moderation action.
+- Players found power-leveling may be subject to a 24-hour ban.
 
-This pre-apocalypse period is primarily meant for roleplay. XP rates will reflect this, and out-of-character level grinding that does not suit your character's chosen profession is prohibited, and will be met with moderation action.
+### Communication
 
-Example: A baker with no knowledge of the outbreak would not reload a firearm for several hours a day. A carpenter would not level the entire town of its trees so he may build an extension to his house. Any person would know that doing squats for 24 hours a day would destroy their body.
+- Use the ic-sms-texting channel for in-character communication on Discord. Follow the post guidelines in the channel.
 
-Players found power-leveling may be subject to a 24-hour ban.
+### Grace Period
 
-### Communication 📻
+- The whole pre-outbreak period counts as a grace period.
+- You get one grace revive during the pre-outbreak.
+- Once the outbreak starts, the 3-in-game-day grace period starts.
 
-Use the ic-sms-texting channel for in-character communication on Discord. Follow the post guidelines in the channel.
+### Item Acquisition
 
-(May propose an ic-social-media forum)
+- Do not loot the area.
+- To acquire items such as food, meds, clothing, books, tools, etc., buy them from stores using your ER Card or trade with a player-owned business.
+- Your character is not aware of the impending apocalypse. Purchase reasonably for your character's backstory.
+- There are a limited amount of items that will be stocked in these stores, and this is done purposefully. More items may arrive throughout the duration of the pre-outbreak. Some items may never arrive. If you need a hammer; ask your neighbor.
 
-### Grace Period 👼
+### ER Cards
 
-The whole pre-outbreak period counts as a grace period. 
-You get one grace revive during the pre-outbreak.
-Once the outbreak starts, the 3-in-game-day grace period starts.
+- You may take up to 4 encumbrance worth of items from each store in Mapleton each in-game day.
+- You may take up to 6 encumbrance total across all stores each in-game day.
+- The exception is if there is 1 item above 4 encumbrance which will count for your whole day's worth of items.
 
-### Item acquisition 🛍️
+For example:
+- Oct 2nd - You bought 5 cans of food (.8 encumbrance ea) from the Food market, and 1 pair of pants (2 encumbrance) from the Clothing store. You have reached your limit.
+- Oct 3rd - You bought 1 Barbeque from the Tool Store (10 encumbrance). You have reached your limit.
+- Oct 4th - You bought 1 sack of flour(1) Butter (.3), Bottle of Wine (1) from the Food Market, A Cherry Spiffo from the Pawn Shop (.2), and 1 Alkagine Pack (0.5) from the Family Clinic. You have 1 encumbrance left to spend today.
 
-Do not loot the area. 
-To acquire items such as food, meds, clothing, books, tools, etc., buy them from stores using your Ration Card or trade with a player-owned business.
+### Player-owned Businesses
 
-Your character is not aware of the impending apocalypse. Purchase reasonably for your character's backstory.
+- Player-owned businesses can only be shopped at when the owner is online and attending their shop.
+- The owner may choose to trade, imply payment transaction, or give away their items however they would like.
+- Normal safehouse rules apply to player-owned businesses, including theft rules.
 
-There are a limited amount of items that will be stocked in these stores, and this is done purposefully. More items may arrive throughout the duration of the pre-outbreak. Some items may never arrive. If you need a hammer; ask your neighbor.
-
-### Ration Cards 💳
-
-Items have been rationed to Redford County. You may take up to 4 encumbrance worth of items from each store in Mapleton each in-game day. 
-
-You may take up to 8 encumbrance total across all stores each in-game day. 
-
-This means you can, for example, on a given day, take 5 cans of food (.8 encumbrance each) from one store, and 2 pairs of pants (2 encumbrance each) from another.
-
-We know when you do not follow this rule. We're watching you. 👀
-
-### Player-owned Businesses 🫵
-
-Player-owned businesses can only be shopped at when the owner is online and attending their shop. 
-The owner may choose to trade, imply payment transaction, or give-away their items however they would like.
-Normal safehouse rules apply to player-owned businesses.
 
 ---
 
