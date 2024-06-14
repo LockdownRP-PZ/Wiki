@@ -612,9 +612,8 @@ Text based combat is allowed, provided the following rules are observed.
 ### 6.5 Faction safehouse claims are considered invalid after 2 weeks of inactivity.
 
 - If all players within a faction remain inactive for 2 weeks, the faction safehouse claim will be considered invalid.
-    - An invalid claim is not protected by theft rules.
+   - An invalid claim is not protected by theft rules.
 
-  
 ### 6.6 Faction wars are allowed, provided all PvP rules are followed.
 
 ### 6.7 Safehouse raiding another faction is allowed.
