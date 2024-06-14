@@ -609,16 +609,21 @@ Text based combat is allowed, provided the following rules are observed.
 - If your faction has disbanded, please let an admin know in your faction Discord channel or use a :clipboard:support-ticket.
 - This is so we can keep tabs on which faction is around and if their land/structures are a valid claim.
 
-### 6.5 Faction wars are allowed, provided all PvP rules are followed.
+### 6.5 Faction safehouse claims are considered invalid after 2 weeks of inactivity.
 
-### 6.6 Safehouse raiding another faction is allowed.
+- If all players within a faction remain inactive for 2 weeks, the faction safehouse claim will be considered invalid.
+    - An invalid claim is not protected by theft rules.
+  
+### 6.6 Faction wars are allowed, provided all PvP rules are followed.
+
+### 6.7 Safehouse raiding another faction is allowed.
 
 - If you are raiding a rival faction safehouse, normal theft rules apply. You cannot break down any of the barricades/doors.
 - In a faction v faction PVP scenario, you are allowed to break down or remove player made barricades/doors.
 - Each player is limited to 30 lbs of weight. You can now use up to 5 players for a faction V faction safehouse raid.
 - Offline raiding is still prohibited. At least 1 member of a faction must be online to commence the safehouse raid.
 
-### 6.7 Factions may claim a faction safehouse in addition to the individual members' safehouses
+### 6.8 Factions may claim a faction safehouse in addition to the individual members' safehouses
 
 - Faction safehouses are allowed be larger than independent player safehouses.
 - A faction safehouse is in addition to players' independent safehouse(s).
