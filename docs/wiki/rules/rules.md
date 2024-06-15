@@ -493,12 +493,7 @@ Text based combat is allowed, provided the following rules are observed.
 - Actions cannot be chained in a single turn.
 - For example, you cannot have a script written and copy and paste actions in as quick as possible. This will be counted as powergaming.
 
-### 4.6 Decide beforehand whether the fight will be lethal.
-
-- If you intend to kill during this fight, this must be agreed upon OOC.
-- In a non-lethal fight, the loser may sustain an injury depending on the outcome of the fight.
-
-### 4.7 Do not force an outcome.
+### 4.6 Do not force an outcome.
 
 - Forcing an outcome is an example of powergaming.
 - For example, "/me swings his bat, smashing Robert in the face, breaking his nose."
@@ -507,7 +502,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 ## ALTERNATIVE PVP RULES
 
-### 4.8 Consent Exception: Combat Warning System
+### 4.7 Consent Exception: Combat Warning System
 
 - Some areas of the map are designated "Open Combat" zones. They will be specially marked as such. Inside these zones, different PvP rules apply. Entering the area means you consent to these rules. The rule is referred to as the Combat Warning (CW) system. The goal of this system is to solidify the danger inhabiting the zone by removing the usual need for consent.
 - These rule apply to NPC vs PC combat only. Players may not use this system to initiate PvP with other players.
