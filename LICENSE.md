@@ -1,3 +1,5 @@
+Note that this license applies to all original code and systems by the Nintendo Homebrew Staff from which this website foundation was taken, but not the content added by the Lockdown RP team, which is all rights reserved by their respective authors.
+
 ISC License
 
 Copyright (c) 2021, Nintendo Homebrew Staff
