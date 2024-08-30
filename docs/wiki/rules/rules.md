@@ -8,7 +8,7 @@
 
 !> For season-specific rules, please refer to [Season Rules](season-rules).
 
-## Disclosure:
+## Disclosure
 
 
 - *This server is for players 18 and older. Due to the nature of the content, all players MUST be aged 18 or over to play on the server. If you are younger than 18, then we cannot accept you on this server. By applying to play here with us, you confirm that you are at least 18 years of age and agree to the terms of use as detailed in this document.*
@@ -20,7 +20,7 @@
 - *We aim to give all players a welcoming, friendly experience, which we believe our rules reflect. If you are unsure of any rules, please don't hesitate to ask in the :speech_balloon:support section.*
 
 
-## Obligations:
+## Obligations
 
 *By applying to this server, you agree to the below and aforementioned rules. Any breaking of said rules may result in a punishment which could include a ban off both the game and discord server. Punishments are dealt out at the administrator discretion.*
 
