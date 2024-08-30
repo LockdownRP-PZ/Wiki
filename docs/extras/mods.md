@@ -1,5 +1,8 @@
 # Mods
 
+!> **Disclaimer:** This list is not exhaustive and may not be up to date. Please check our Discord server for the most
+up-to-date information.
+
 1. ['59 Cadillac Miller-Meteor + ECTO-1](https://steamcommunity.com/sharedfiles/filedetails/?id=2772575623)
 
 2. ['67 Cadillac Gage Commando](https://steamcommunity.com/sharedfiles/filedetails/?id=2478247379)
