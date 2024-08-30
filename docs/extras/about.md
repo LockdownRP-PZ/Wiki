@@ -1,12 +1,17 @@
-# About This Guide
+# About This Website
 ---
-This guide was written by staff members of the [Lockdown RP community](https://discord.gg/AyhJfGUGfU)
+The content on this website was written by staff members of the [Lockdown RP community](https://discord.gg/AyhJfGUGfU).
+
+It is intended to serve as an easy-to-use rulebook and guide for new and existing players of our Lockdown RP community.
+You will find thorough information on our global and seasonal rules over at the [Rules](/rules) page. Additionally,
+you may find guides written by staff and community members on various topics over at the [Guides](/guides) page.
+
 
 > **Credits**
 >
 > **Max, Fungus, Makdot, Luliela**
 >
-> Thank you to [everyone else](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/graphs/contributors) that contributed to the guide on GitHub.
+> Thank you to [everyone else](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/graphs/contributors) that contributed to this website on GitHub.
 
 ?> [You can find the source for this wiki on GitHub](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/), the technical parts of which licensed under the
 [ISC License](https://github.com/hacks-guide/Guide-WiiU/blob/master/LICENSE.md). Actual content on the wiki is all rights reserved to their respective authors, and may hence **not**
