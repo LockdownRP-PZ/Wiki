@@ -6,7 +6,7 @@
     <img src="docs/assets/img/LockdownRpRulebookCover.png" alt="Lockdown RP" title="Lockdown RP">
 </figure>
 
-!> For season-specific rules, please refer to [Season Rules](/season-rules).
+!> For season-specific rules, please refer to [Season Rules](/rules/season-rules).
 
 ## Disclosure:
 
