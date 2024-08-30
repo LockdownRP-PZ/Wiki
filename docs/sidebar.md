@@ -1,6 +1,7 @@
 - **Wiki**
 - [Introduction](introduction)
 - [Rules](rules/rules)
+- [Guides](guides/getting-started)
 - **Extras**
 - [Frequently Asked Questions](faq)
 - [Mods](mods)
