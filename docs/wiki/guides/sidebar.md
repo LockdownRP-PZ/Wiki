@@ -6,6 +6,7 @@
 - [Move Your Story With Motivations](move-your-story-with-motivations)
 - [Accepting Character Death](accepting-character-death)
 - [Coming Back From An Absence](coming-back-from-an-absence)
+- [Buffy's Roleplay Chat Guide](buffys-roleplay-chat-guide)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/AyhJfGUGfU)
