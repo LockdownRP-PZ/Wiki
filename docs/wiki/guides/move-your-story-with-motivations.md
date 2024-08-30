@@ -139,4 +139,3 @@ If you need some ideas to fuel your gas-tank, here is a list of them!
 > A blend of discovery and justice, unveiling secrets could be a motivation for your character. When there are scandals,
 > corruption, or lies, your character feels a sense of duty to bring the truth to light. It’s time to snoop and
 > eavesdrop.
-** **
