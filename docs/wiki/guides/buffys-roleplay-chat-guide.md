@@ -45,7 +45,7 @@ You can change your character's name by typing `/name` in the chat box, and then
 This feature is sometimes used to change a character's identity, or to represent a more desirable nickname.
 
 <figure class="figure" align="center">
-    <img src="https://cdn.discordapp.com/attachments/1244508976683683840/1244509459796201532/buffy.gif" alt="BuffyGif">
+    <img src="docs/assets/img/Buffy.gif" alt="Buffy gif">
 </figure>
 
 ## Changing your Character's Appearance 💄
