@@ -1,6 +1,6 @@
 # Move Your Story With Motivations
 
-*A basic guide and brainstorming list for character goals and motivations.*
+*A basic guide and brainstorming list for character goals and motivations, by **purplegiraffes***
 
 ## What does your character want?
 
