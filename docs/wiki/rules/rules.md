@@ -216,7 +216,17 @@
 - If you delay the infection death by staying logged out for two (2) weeks, your character will be considered dead.
 - An exception can be made if you will be going on an extended hiatus. Submit a support ticket to inform staff so we can work something out.
 
-### 2.9 Do not leave the playable area.
+
+### 2.9 Mark your POIs
+
+- A POI (Point of Interest) is a location with roleplay significance.
+- Use assets available to you to bring attention to a POI you have created such as pieces of paper, journals and books, or renamed items.
+- Follow this roleplay descriptor color guide to choose what color descriptors to use:
+
+- Staff colours only: Red (Danger Warning), Pink (Event-Team POI), Yellow (OOC Admin Notice)
+- Player colours: Black (Faction Base Indicator), Grey (Safehouse, Vehicle Claims), White (Business Claim), Green (Player POI)
+
+### 2.10 Do not leave the playable area.
 
 - Each season of Lockdown features a clearly marked playable area. Players may not leave the area unless it is for an event.
 - Anyone caught sneaking out of the map to go and loot somewhere outside of it will be teleported back, and the loot will be confiscated. We check the logs often to stop such offenses.
@@ -224,7 +234,7 @@
 - The boundaries are marked by checkpoints and rivers. Do NOT cross them.
 
 
-### 2.10 Romantic relationships are allowed, within reason.
+### 2.11 Romantic relationships are allowed, within reason.
 
 - Marriages, courting, dating, cohabiting, etc are all acceptable forms of roleplay.
 - Gender is no barrior to romantic relationships. Same-sex relationships are acceptable.
@@ -232,7 +242,7 @@
 - Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally.
 
 
-### 2.11 Do not disassemble large amounts of furniture.
+### 2.12 Do not disassemble large amounts of furniture.
 
 - This rule exists to preserve the map's aesthetic and allow players the opportunity to obtain furniture for decoration.
 - You may take furniture for decoration in your own house.
@@ -242,7 +252,7 @@
 - Fences are not part of this and can be deconstructed, provided they are not safehouse claims or world boundaries.
 
 
-### 2.12 Do not remove lootable containers from high-value loot spots.
+### 2.13 Do not remove lootable containers from high-value loot spots.
 
 - Loot can respawn in world-generated containers. This rule exists to give players the opportunity to loot commonly-targeted buildings.
 - High-value loot spots:
@@ -255,7 +265,7 @@
     - Farm supply stores
 
 
-### 2.13 Do not farm good-condition vehicles for parts, scrap, or XP.
+### 2.14 Do not farm good-condition vehicles for parts, scrap, or XP.
 
 - This rule exists to ensure that new players won't find it too difficult to obtain a usable vehicle. We want all of our players to have access to reasonable transportation.
 - If a vehicle is over 35% condition, you may not salvage, dismantle, or take engine parts from it.
@@ -270,7 +280,7 @@
 - Feel free to open a support ticket and ask questions if you're in doubt.
 
 
-### 2.14 World knowledge.
+### 2.15 World knowledge.
 
 - If your character is a local, they may have some prior information on the world, such as factions, antagonists, and major events.
 - This does not invalidate [rule 1.1 - No Metagaming](#11-no-metagaming).
@@ -281,7 +291,7 @@
     - The staff team may remove the claim of a dead character's property, indicating that the property is abandoned.
 
 
-### 2.15 Roleplay your chosen PZ traits.
+### 2.16 Roleplay your chosen PZ traits.
 
 - When creating your character, pick traits that relate to your character. For example:
     - If you choose the cowardly trait, roleplay being cowardly.
@@ -291,7 +301,7 @@
 - Creating an optimized build without regard to your written character is a breach of rule [1.1 - No Metagaming](#11-no-metagaming).
 
 
-### 2.16 Skill limiter.
+### 2.17 Skill limiter.
 
 - To prevent overpowered builds, we have a skill limiter in place. Your starting skill level determines the maximum skill levels you will be able to reach.
 - Crafting and survival skills are capped depending on your starting points:
@@ -302,7 +312,7 @@
   0 = 9; 1 = 10
 
 
-### 2.17 Character Re-Specs
+### 2.18 Character Re-Specs
 
 - In case you find that your character isn't represented in-game the way you imagined them, we offer a courtesy re-spec (aka respec) to give you a chance to adjust them. A re-spec will allow you to remake your character, respawning with an adjusted spread of traits.
 - You may request a re-spec for any reason. Common reasons for a re-spec:
@@ -314,7 +324,7 @@
 - We will not award 'partial' levels in skills.
 
 
-### 2.18 Close-Call Token
+### 2.19 Close-Call Token
 
 Players begin each season/anthology with a *"close-call token"*. Players may turn in their token to revive their character for any reason.
 
@@ -535,13 +545,14 @@ Text based combat is allowed, provided the following rules are observed.
 
 - Exceptions may be made. If you will be away for an extended period, please submit a support ticket to present your case.
 
-### 5.4 Mark your safehouse with a piece of paper, journal, or notepad.
+### 5.4 Mark your safehouse with a piece of paper, journal, roleplay descriptor or notepad.
 
-- To claim a safehouse, you must place a piece of paper, journal or notepad at each entrance which is accessible to your building.
+- To claim a safehouse, you must place a piece of paper, journal, [roleplay descriptor](https://steamcommunity.com/sharedfiles/filedetails/?id=2897228813&searchtext=descriptor) or notepad at each entrance which is accessible to your building.
 - The in-game safehouse system is disabled. It causes more problems than it solves, so we rely on these safehouse rules.
 - The claim note must include the safehouse owner's character name(s).
     - Please write each owner/user of the safehouse on the note. This is to prevent any offline raiding and so we know who has access to your items when you are not online.
     - Claims using the user's Discord name are not valid.
+    - Use a 'Grey' roleplay descriptor for safehouse claims.
 
 ### 5.5 Only clearly-marked-areas, buildings, rooms, and vehicles may be claimed.
 
@@ -562,7 +573,7 @@ Text based combat is allowed, provided the following rules are observed.
     - Heavy-Duty (trucks, buses, vans, etc.)
 - This means you could own, for example, a semi truck and a police cruiser.
 - Players may claim one (1) trailer in addition to their vehicles.
-- To claim a vehicle, place a note in its glove box, in its trunk, and/or on the ground nearby.
+- To claim a vehicle, place a note or 'Grey' roleplay descriptor in its glove box, in its trunk, and/or on the ground nearby.
 
 ### 5.8 Players can claim a mobile safehouse in lieu of a building/room/area.
 
@@ -592,7 +603,7 @@ Text based combat is allowed, provided the following rules are observed.
 
 ### 6.2 Factions may claim a faction vehicle in addition to the individual members' vehicles.
 
-- To claim a faction vehicle, write the name of the faction and its members on the claim note.
+- To claim a faction vehicle, write the name of the faction and its members on the claim note, or 'Black' roleplay descriptor.
 - Your faction vehicle may be of any type (sport, standard, or heavy-duty).
 - Factions may have ONE faction vehicle, regardless of faction size.
 
