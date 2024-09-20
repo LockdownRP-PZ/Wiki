@@ -55,20 +55,6 @@ For example:
 - Normal safehouse rules apply to player-owned businesses, including theft rules.
 
 
----
-
-## Scrapyard Rules :wrench: 
-
-Welcome to the Scrapyard. (Buffalo Hill's Scrapyard is on TBD Rd, indicated on the labeled map we've provided) Help yourself to the junk inside. Scrap it, salvage it, take out your anger on it, whatever. We only ask that you donate some of your own resources in return. The more you give, the more we'll have, which means we can bring in better and more junk. We hope this will be a beneficial arrangement for all.
-
-In the Scrapyard, there will be multiple cars of varying states of decay. THEY ARE NOT CLAIMABLE AS VEHICLES. The cars in the Scrapyard are solely for training mechanics, dismantling, and scavenging parts.
-
-- Be Courteous! Do not dismantle every car in the lot by yourself. Let other people have a chance to get at the parts they need or train what they need.
-- Use Common Sense
-  > If a vehicle has many good parts, consider uninstalling them before dismantling a vehicle or not dismantling it. While there are not rules on when and when not to dismantle in the Scrapyard, this falls under the 'Be Courteous' category.
-
-If there are questions, please reach out to staff! Staff will be checking in on the area to make sure it's being used properly. We also will be refreshing the vehicles from time to time in order to allow rotating stock of parts and inventory.
-
 --- 
 
 
