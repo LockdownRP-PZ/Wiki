@@ -223,7 +223,7 @@
 - Use assets available to you to bring attention to a POI you have created such as pieces of paper, journals and books, or renamed items.
 - Follow this roleplay descriptor color guide to choose what color descriptors to use:
 
-- Staff colours only: Red (Danger Warning), Pink (Event-Team POI), Yellow (OOC Admin Notice)
+- Staff colours only: Red (Danger Warning), Pink (Event-Team POI), Yellow (OOC Admin Notice), Blue (Community Lot)
 - Player colours: Black (Faction Base Indicator), Grey (Safehouse, Vehicle Claims), White (Business Claim), Green (Player POI)
 
 ### 2.10 Do not leave the playable area.
