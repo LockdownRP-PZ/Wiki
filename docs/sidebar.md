@@ -1,6 +1,7 @@
 - **Wiki**
 - [Introduction](introduction)
-- [Rules](rules/rules)
+- [Server Rules](rules/rules)
+- [Season Rules](rules/season-rules)
 - [Guides](guides/getting-started)
 - **Extras**
 - [Frequently Asked Questions](faq)
