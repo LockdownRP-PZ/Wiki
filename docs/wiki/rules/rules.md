@@ -237,7 +237,7 @@
 ### 2.11 Romantic relationships are allowed, within reason.
 
 - Marriages, courting, dating, cohabiting, etc are all acceptable forms of roleplay.
-- Gender is no barrior to romantic relationships. Same-sex relationships are acceptable.
+- Gender is no barrier to romantic relationships. Same-sex relationships are acceptable.
 - ERP (erotic roleplay) must NOT take place on the server. We have a zero tolerance policy on this.
 - Any player who is uncomfortable with a character's advances or feels another player is being inappropriate may come forward. We encourage you to submit a ticket with screenshots of the conversation. It will be handled discreetly and professionally.
 
