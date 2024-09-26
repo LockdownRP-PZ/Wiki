@@ -41,6 +41,7 @@ some RP-friendly reasons that your character was gone.
 🕵️ Kidnapped/Mugged
 > Your character could have been taken against their will. If there are looters or bandits, perhaps their things were
 > stolen and the character was dumped somewhere after.
+> *(( Note the significance of this choice, and take it seriously. It may be disruptive to other roleplay. ))*
 
 🚙 Car trouble
 > If your character uses a vehicle, its engine could have had trouble while they were on a long trip. It could have
