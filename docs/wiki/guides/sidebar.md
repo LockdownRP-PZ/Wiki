@@ -1,5 +1,9 @@
-- **Rules**
-- [Home Page](../introduction)
+- **Wiki**
+- [Introduction](introduction)
+- [Server Rules](rules/rules)
+- [Season Rules](rules/season-rules)
+- [Guides](guides/getting-started)
+- **Guides**
 - [Getting Started](getting-started)
 - [Role Definitions](role-definitions)
 - [What is Bleed, and How to Avoid It?](what-is-bleed-and-how-to-avoid-it)
@@ -7,7 +11,12 @@
 - [Accepting Character Death](accepting-character-death)
 - [Coming Back From An Absence](coming-back-from-an-absence)
 - [Buffy's Roleplay Chat Guide](buffys-roleplay-chat-guide)
+- **Extras**
+- [Frequently Asked Questions](faq)
+- [Mods](mods)
 - **Links**
 - [![GitHub](https://icongr.am/simple/github.svg?color=808080&size=16)GitHub](https://github.com/LockdownRP-PZ/lockdownrp-pz.github.io/)
 - [![Discord](https://icongr.am/simple/discord.svg?colored&size=16)Discord](https://discord.gg/AyhJfGUGfU)
-- [About](../about)
+- [About](about)
+- **Privacy**
+- [Privacy Policy](privacy-policy)
